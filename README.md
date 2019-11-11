@@ -18,6 +18,10 @@ DATE,TIME,実績(万kW)
 
 http://statsmodels.sourceforge.net/
 
+```
+conda install -c conda-forge statsmodels
+```
+
 ## Reference
 
 https://data.gunosy.io/entry/statsmodel_trend
