@@ -4,6 +4,8 @@
 
 http://www.tepco.co.jp/forecast/index-j.html
 
+http://www.tepco.co.jp/forecast/html/images/juyo-d-j.csv
+
 ## Library
 
 http://statsmodels.sourceforge.net/
